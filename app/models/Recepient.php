@@ -10,6 +10,7 @@ class Recepient extends Model
             'nama_recepient',
             'no_hp_recepient',
             'alamat_recepient',
+            
         ]);
     }
 

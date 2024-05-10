@@ -14,4 +14,5 @@ class ShipMethod extends Model
     public function getAllData(){
         return $this->get()->fetchAll();
     }
+    
 }

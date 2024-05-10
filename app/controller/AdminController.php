@@ -8,5 +8,6 @@ class AdminController extends Controller
             'title' => 'OhMyNative | Dashboard',
         ];
         $this->view('pages/admin/index', $data);
+        
     }
 }

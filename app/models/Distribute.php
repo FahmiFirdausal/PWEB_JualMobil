@@ -15,6 +15,7 @@ class Distribute extends Model
             'tanggal_kirim',
             'tanggal_terima',
             'total_biaya',
+            
         ]);
     }
 

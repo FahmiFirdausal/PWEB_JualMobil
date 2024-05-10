@@ -7,6 +7,7 @@ class MobilController extends Controller
     public function __construct()
     {
         $this->rokokmodels = $this->model('Mobil');
+        
     }
 
     public function index()

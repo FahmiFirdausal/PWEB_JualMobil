@@ -10,6 +10,7 @@ class Mobil extends Model {
             'harga_pack',
             'type',
             'gambar_rokok',
+            
         ]);
     }
 

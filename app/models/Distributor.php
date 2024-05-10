@@ -12,6 +12,7 @@ class Distributor extends Model
             'no_hp_distributor',
             'nik_distributor',
             'foto_ktp',
+            
         ]);
     }
 

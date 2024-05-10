@@ -3,4 +3,5 @@
 class DistributeController extends Controller
 {
 
+    s
 }

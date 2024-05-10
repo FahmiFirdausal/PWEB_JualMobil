@@ -7,5 +7,6 @@ class DashboardController extends Controller{
         ];
 
         $this->view('pages/admin/dashboard', $data);
+        
     }
 }
